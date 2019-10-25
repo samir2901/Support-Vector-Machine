@@ -112,11 +112,4 @@ print("Time taken:",time.time()-t)
 
 
 
-input()
-
-
-
-
-
-
 
